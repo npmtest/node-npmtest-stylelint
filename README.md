@@ -1,4 +1,7 @@
-# test coverage for  [stylelint (v7.10.1)](https://stylelint.io)  [![npm package](https://img.shields.io/npm/v/npmtest-stylelint.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stylelint) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stylelint.svg)](https://travis-ci.org/npmtest/node-npmtest-stylelint)
+# npmtest-stylelint
+
+#### basic test-coverage for  [stylelint (v7.10.1)](https://stylelint.io)  [![npm package](https://img.shields.io/npm/v/npmtest-stylelint.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stylelint) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stylelint.svg)](https://travis-ci.org/npmtest/node-npmtest-stylelint)
+
 #### A mighty, modern CSS linter.
 
 [![NPM](https://nodei.co/npm/stylelint.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/stylelint)
